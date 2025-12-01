@@ -24,8 +24,7 @@ Unitree Robotics
 
 SuccessFactors
 BTP
-AI
-Joule skill
+Joule
 
 京东
 刘强东
@@ -73,7 +72,6 @@ ai
 
 SAP
 BTP
-AI core
 S/4 Hana
 
 自动驾驶
@@ -81,6 +79,7 @@ S/4 Hana
 机器人
 
 Australia
+澳大利亚
 
 China
 
